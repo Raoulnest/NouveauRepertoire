@@ -2,3 +2,4 @@ SalutGitLocal
 newLine
 other newLine
 TestStash
+autreStash
