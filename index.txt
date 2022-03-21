@@ -1,1 +1,3 @@
 SalutGitLocal
+newLine
+other newLine
