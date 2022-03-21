@@ -1,8 +1,5 @@
 SalutGitLocal
 newLine
 other newLine
-<<<<<<< HEAD
 TestStash
 autreStash
-=======
->>>>>>> parent of 4bde429 (Test New Stash)
